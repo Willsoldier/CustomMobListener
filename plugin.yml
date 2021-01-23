@@ -1,0 +1,7 @@
+main: me.Adrenalize.TrialOne.Main
+name: TrialOne
+version: 1.0
+author: Adrenalize
+
+commands:
+  Hello:
